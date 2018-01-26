@@ -1,0 +1,72 @@
+<html>
+<head><title>文字变换颜色 样式 </title>
+    <script>
+        function changeColor() {
+            var title = document.getElementById("title").value;
+            var select = document.getElementById("selector").value;
+//            if (select == "two") {
+//                document.getElementById("title").style.color = "green";
+//                document.getElementById("title").style.fontSize = "100px";
+//            }
+//            else {
+//                document.getElementById("title").style.color = "red";
+//                document.getElementById("title").style.fontSize = "40";
+//            }
+            console.log(select);
+
+            switch (select) {
+                case "one":
+                    document.getElementById("title").style.color = "red";
+                    document.getElementById("title").style.fontSize = "100px";
+
+                    break;
+
+                case "two":
+                    document.getElementById("title").style.color = "green";
+                    document.getElementById("title").style.fontSize = "40";
+
+
+                    break;
+
+                case "three":
+
+                    break;
+                case "444":
+                    break;
+                default:
+
+                    break;
+            }
+        }
+
+        function changeStyle() {
+            var title = document.getElementById("title").value;
+            var select = document.getElementById("selector2").value;
+            if (select == "two") {
+                document.getElementById("title").style.fontFamily = "楷体";
+            }
+            else
+                document.getElementById("title").style.fontFamily = "宋体";
+        }
+
+    </script>
+
+</head>
+<body>
+<form name="form1">
+    <input type="text" name="title" id="title" value="黑色头发" style="font-family:Helvetica;">
+    <select name="selector" id="selector" onchange="changeColor()">
+        <option value="one">红色</option>
+        <option value="two">绿色</option>
+        <option value="three">three</option>
+        <option value="4">444</option>
+        <option value="5">555</option>
+        <option value="6">666</option>
+    </select>
+    <select name="selector2" id="selector2" onchange="changeStyle()">
+        <option value="one">宋体</option>
+        <option value="two">楷体</option>
+    </select>
+</form>
+</body>
+</html>

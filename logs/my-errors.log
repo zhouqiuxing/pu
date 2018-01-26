@@ -1,0 +1,114 @@
+You messed up!You messed up!Array
+(
+    [USER] => www-data
+    [HOME] => /var/www
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => PHPSESSID=40d208ab1baa7e93e338396ba67c4e78; uiyyyyyyd=ooooooooooooooooooooooooooooo; uiykkkkd=ooooooooooooooooooooooooooooo; uiykddddkkkd=oooooooo44444445555555oooooooooooooooo; uiykddddkk0000d=oooooooo44444445555555ooooooooopppppppppppppppppppppoooo
+    [HTTP_REFERER] => http://zsr.iirii.com/demo_shopping_cart/login.php
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.5
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0 Cyberfox/50.0.2
+    [HTTP_HOST] => 118.190.6.78
+    [REDIRECT_STATUS] => 200
+    [SERVER_NAME] => aqq.io
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 118.190.6.78
+    [REMOTE_PORT] => 10322
+    [REMOTE_ADDR] => 115.175.103.174
+    [SERVER_SOFTWARE] => nginx/1.12.0
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REQUEST_SCHEME] => http
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [DOCUMENT_ROOT] => /data/home/yzhang/ServerRun/aqq
+    [DOCUMENT_URI] => /sc.php
+    [REQUEST_URI] => /sc.php?nam4=&email=
+    [SCRIPT_NAME] => /sc.php
+    [CONTENT_LENGTH] => 
+    [CONTENT_TYPE] => 
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => nam4=&email=
+    [SCRIPT_FILENAME] => /data/home/yzhang/ServerRun/aqq/sc.php
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /sc.php
+    [REQUEST_TIME_FLOAT] => 1515166081.6176
+    [REQUEST_TIME] => 1515166081
+)
+111Array
+(
+    [USER] => www-data
+    [HOME] => /var/www
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => PHPSESSID=40d208ab1baa7e93e338396ba67c4e78; uiyyyyyyd=ooooooooooooooooooooooooooooo; uiykkkkd=ooooooooooooooooooooooooooooo; uiykddddkkkd=oooooooo44444445555555oooooooooooooooo; uiykddddkk0000d=oooooooo44444445555555ooooooooopppppppppppppppppppppoooo
+    [HTTP_REFERER] => http://zsr.iirii.com/demo_shopping_cart/login.php
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.5
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0 Cyberfox/50.0.2
+    [HTTP_HOST] => 118.190.6.78
+    [REDIRECT_STATUS] => 200
+    [SERVER_NAME] => aqq.io
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 118.190.6.78
+    [REMOTE_PORT] => 10627
+    [REMOTE_ADDR] => 115.175.103.174
+    [SERVER_SOFTWARE] => nginx/1.12.0
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REQUEST_SCHEME] => http
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [DOCUMENT_ROOT] => /data/home/yzhang/ServerRun/aqq
+    [DOCUMENT_URI] => /sc.php
+    [REQUEST_URI] => /sc.php?nam4=&email=
+    [SCRIPT_NAME] => /sc.php
+    [CONTENT_LENGTH] => 
+    [CONTENT_TYPE] => 
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => nam4=&email=
+    [SCRIPT_FILENAME] => /data/home/yzhang/ServerRun/aqq/sc.php
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /sc.php
+    [REQUEST_TIME_FLOAT] => 1515166605.4527
+    [REQUEST_TIME] => 1515166605
+)
+Array
+(
+    [USER] => www-data
+    [HOME] => /var/www
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => PHPSESSID=40d208ab1baa7e93e338396ba67c4e78; uiyyyyyyd=ooooooooooooooooooooooooooooo; uiykkkkd=ooooooooooooooooooooooooooooo; uiykddddkkkd=oooooooo44444445555555oooooooooooooooo; uiykddddkk0000d=oooooooo44444445555555ooooooooopppppppppppppppppppppoooo
+    [HTTP_REFERER] => http://zsr.iirii.com/demo_shopping_cart/login.php
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.5
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0 Cyberfox/50.0.2
+    [HTTP_HOST] => 118.190.6.78
+    [REDIRECT_STATUS] => 200
+    [SERVER_NAME] => aqq.io
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 118.190.6.78
+    [REMOTE_PORT] => 10627
+    [REMOTE_ADDR] => 115.175.103.174
+    [SERVER_SOFTWARE] => nginx/1.12.0
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REQUEST_SCHEME] => http
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [DOCUMENT_ROOT] => /data/home/yzhang/ServerRun/aqq
+    [DOCUMENT_URI] => /sc.php
+    [REQUEST_URI] => /sc.php?nam4=&email=
+    [SCRIPT_NAME] => /sc.php
+    [CONTENT_LENGTH] => 
+    [CONTENT_TYPE] => 
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => nam4=&email=
+    [SCRIPT_FILENAME] => /data/home/yzhang/ServerRun/aqq/sc.php
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /sc.php
+    [REQUEST_TIME_FLOAT] => 1515166652.5693
+    [REQUEST_TIME] => 1515166652
+)

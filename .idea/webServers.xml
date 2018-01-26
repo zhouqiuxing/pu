@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4af257ff-ecc8-48e0-8a6d-0fbed0c20b82" name="Run-AQQ" url="http://ftp-z.iirii.com">
+        <fileTransfer host="ftp-z.iirii.com" port="22312" rootFolder="/data/home/yzhang/ServerRun/aqq" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22312" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
